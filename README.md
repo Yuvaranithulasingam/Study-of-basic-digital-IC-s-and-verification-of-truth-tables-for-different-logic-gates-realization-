@@ -74,13 +74,14 @@ endmodule
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Yuvarani T
+
 RegisterNumber:22009033  
 */
 Truthtable
 
 ![logic truth table](https://user-images.githubusercontent.com/121418522/213151978-5e297c02-be2d-4126-b491-f5159cd6d503.png)
 
-RTL realizatioN
+RTL realization
 
 ![logic gates](https://user-images.githubusercontent.com/121418522/213152097-36eb5b75-be53-46ad-93dd-d8c16519b458.png)
 
